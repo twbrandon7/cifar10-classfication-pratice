@@ -1,4 +1,5 @@
 # for project
+python-dotenv
 mlflow[extras]
 
 # for formatting
