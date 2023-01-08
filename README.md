@@ -1,13 +1,7 @@
-# Python Template with Black, Flake8 and isort
+# CIFAR-10 image classification practice
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-## Usage
+## Introduction
 
-Clone this repository and install dependencies by the following commands:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+Practice deep learning and MLOps skills using [Pytorch](https://pytorch.org/) and [wandb](https://wandb.ai/site).
