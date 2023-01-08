@@ -4,4 +4,4 @@
 
 ## Introduction
 
-Practice deep learning and MLOps skills using [Pytorch](https://pytorch.org/) and [wandb](https://wandb.ai/site).
+Practice deep learning and MLOps skills using [Pytorch](https://pytorch.org/) and [MLflow](https://mlflow.org/).
