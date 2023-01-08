@@ -1,4 +1,7 @@
-# for development
+# for project
+mlflow[extras]
+
+# for formatting
 flake8
 flake8-docstrings
 pep8-naming
