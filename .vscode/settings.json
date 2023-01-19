@@ -25,5 +25,6 @@
     "isort.args": [
         "--settings-path=${workspaceFolder}/.isort.cfg"
     ],
-    "autoDocstring.docstringFormat": "google"
+    "autoDocstring.docstringFormat": "google",
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
 }
