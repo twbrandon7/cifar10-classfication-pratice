@@ -9,6 +9,7 @@ torchvision==0.14.1+cu116
 torchaudio==0.13.1+cu116
 pytorch-lightning
 GitPython
+torchmetrics
 
 # for formatting
 flake8
