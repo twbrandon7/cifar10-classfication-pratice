@@ -136,3 +136,6 @@ dmypy.json
 
 # dataset
 data/
+
+# training logs
+lightning_logs/
